@@ -1,7 +1,7 @@
 n = int(input("Enter the Terms:"))
 
 a,b=0,1
-print("Fabonacci Series:")
+print("Fibonacci Series:")
 
 for i in range(n):
     print(a, end=" ")
